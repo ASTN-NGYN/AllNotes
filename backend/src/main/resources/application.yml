@@ -5,4 +5,4 @@ spring:
         oauth2:
             resourceserver:
                 jwt:
-                    issuer-uri: https://cognito-idp.us-east-2.amazonaws.com/us-east-2_xiYB7SBTN/.well-known/jwks.json
+                    issuer-uri: https://cognito-idp.us-west-2.amazonaws.com/us-west-2_rlts36bKo
